@@ -1,0 +1,312 @@
+{
+  "medicine": [
+    {
+      "id": 1,
+      "title": "Dolo 500 mg tablet",
+      "price": 15,
+      "img": "https://positrarx.com/api/positrarx/e748a12e-c2c8-11eb-ac66-2d8af994f7f5-dolo_500_tablet.jpg",
+      "detail": "Dolo 500 mg tablet is a medicine used to relieve pain and to reduce fever. It is used to treat many conditions such as headaches, body aches, toothaches, and the common cold. It works by inhibiting the release of certain chemicals that cause pain and fever. This medicine is widely prescribed and considered safe but is not suitable for everybody. Before taking it, let your doctor know if you have liver or kidney problems or are using blood-thinning medicines. ",
+      "ingredient": "Paracetamol (500 mg)",
+      "sideEffect": "Stomach pain,Nausea,Vomiting",
+      "uses": "Pain reliefFever",
+      "category": "tablet"
+    },
+    {
+      "id": 2,
+      "title": "P-500 Suspension 60 ml",
+      "price": 45,
+      "img": "https://positrarx.com/api/positrarx/e4744426-e1b3-11eb-ac66-2d8af994f7f5-image_2021_07_10t19_19_35_315z.png",
+      "detail": "P-500 Suspension is an analgesic (pain reliever) and anti-pyretic (fever reducer). It works by blocking the release of certain chemical messengers that cause pain and fever. It is a common painkiller used to treat aches and pains. It works by blocking chemical messengers in the brain that tell us we have pain. It is effective in relieving pain caused by headache, migraine, nerve pain, toothache, sore throat, period (menstrual) pains, arthritis, and muscle aches. ",
+      "ingredient": "Paracetamol (500 mg)",
+      "sideEffect": "Stomach pain,Nausea,Vomiting",
+      "uses": "Pain reliefFever",
+      "category": "liquid"
+    },
+    {
+      "id": 3,
+      "title": "DICLOWIN PLUS TABLET",
+      "price": 20,
+      "img": "https://positrarx.com/api/positrarx/97db8754-d719-11eb-ac66-2d8af994f7f5-26227-500x500.jpg",
+      "detail": "Diclowin Plus tablet is used for relieving headache, body ache, backache, joint pain and toothache. It also helps in reducing swelling, pain and stiffness in case of arthritis and spondylitis. ",
+      "ingredient": "Paracetamol (500 mg), Acetaminophen (500 mg)",
+      "sideEffect": "Stomach pain,Nausea,Vomiting,Indigestion,Constipation,Mouth ulcers,Black stools,Loose motions",
+      "uses": "Diclowin Plus tablet works by interfering with the production of a chemical called prostaglandins, which is responsible for swelling and pain.",
+      "category": "tablet"
+    },
+    {
+      "id": 4,
+      "title": "CROCIN ADVANCE TABLET",
+      "price": 30,
+      "img": "https://positrarx.com/api/positrarx/ba57179a-83f4-11ea-9988-02128ec5b234-crocin_advn.jpg",
+      "detail": "Crocin Advance Strips provides fast and effective relief from pain. It is India’s first paracetamol tablet with optizorb technology. It is known suitable for people with heart conditions , high blood pressure and sensitive stomach.",
+      "ingredient": "Paracetamol (500 mg), Acetaminophen (500 mg)",
+      "sideEffect": "Skin rash,Itching,Blisters,Blood-related problems",
+      "uses": "Muscle ache (like generalized body pain, back pain, neck pain, shoulder pain etc.)Musculoskeletal painJoint Pain",
+      "category": "tablet"
+    },
+    {
+      "id": 5,
+      "title": "ENZOFLAM TABLET",
+      "price": 150,
+      "img": "https://positrarx.com/api/positrarx/04d46f00-ac01-11ea-9988-02128ec5b234-enzoflam_tab.jpg",
+      "detail": "Enzoflam Tablet is a combination of medicine that may be used to relieve symptoms such as fever, mild to moderate pain, swelling, redness, etc. associated with conditions such as osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, headache, toothache, surgeries, etc. This medicine should be used with caution in patients suffering from liver diseases due to the increased risk of severe adverse effects.",
+      "ingredient": "Paracetamol (500 mg), Acetaminophen (500 mg), Diclofenac (50mg), Serratiopeptidase (15mg)",
+      "sideEffect": "Skin rash,Diarrhea,Anorexia (Excessive eating),Severe allergy,Nausea or Vomiting,Bloody and cloudy urine,Tiredness and weakness,Abdominal pain or stomach pain,Constipatio,Unusual bleeding or bruising,Gastric / Mouth Ulcer",
+      "uses": "Mild to Moderate pain: This medicine may be used to treat mild to moderate pain associated with muscle spasms, low back pain, neck pain, ankylosing spondylitis, headache, osteoarthritis, rheumatoid arthritis, tendinitis, bursitis, surgeries, etc.Inflammation and edema: This medicine may be used to relieve swelling, redness, pain, etc. associated with trauma, arthritis, surgeries, etc.Dysmenorrhea: This medicine may be used to relieve excessive pain and cramps associated with menstruation.",
+      "category": "tablet"
+    },
+    {
+      "id": 6,
+      "title": "SIGNOFLAM TABLET",
+      "price": 140,
+      "img": "https://positrarx.com/api/positrarx/3b3ce4d0-c49e-11eb-ac66-2d8af994f7f5-signoflam_tablet.jpg",
+      "detail": "Signoflam tablet is used to relieve pain and inflammation of muscles, joints and bones in conditions such as arthritis, spondylitis and injuries. It is also used after operations and surgeries for relieving pain, inflammation and swelling.",
+      "ingredient": "Paracetamol (500 mg), Acetaminophen (500 mg),Serratiopeptidase (15mg)",
+      "sideEffect": "Nausea,Vomiting,Stomach pain,Indigestion,Heartburn,Loss of appetite,Diarrhea",
+      "uses": "Signoflam tablet is used to for relieving pain and inflammation of muscles, joints and bones in conditions such as arthritis, spondylitis and injuries. It is also used after operations and surgeries for relieving pain, inflammation and swelling.",
+      "category": "tablet"
+    },
+    {
+      "id": 7,
+      "title": "SUMO TABLET",
+      "price": 150,
+      "img": "https://positrarx.com/api/positrarx/d1c3a5c0-c416-11eb-ac66-2d8af994f7f5-sumo_1.jpg",
+      "detail": "Sumo Tablet is a combination medicine that helps in relieving pain. It is used to relieve pain and inflammation in conditions like rheumatoid arthritis, ankylosing spondylitis, and osteoarthritis. It is also used to relieve fever, muscle pain, back pain, toothache, or pain in the ear and throat.",
+      "ingredient": "Paracetamol (500 mg),Nimesulide (100mg)",
+      "sideEffect": "Nausea,Vomiting,Diarrhea,Increased liver enzymes",
+      "uses": "Sumo Tablet is a combination of two medicines: Nimesulide and Paracetamol. It works by blocking the release of certain chemical messengers that cause fever, pain and inflammation (redness and swelling).",
+      "category": "tablet"
+    },
+    {
+      "id": 8,
+      "title": "BLOMIG-P TABLET",
+      "price": 40,
+      "img": "https://positrarx.com/api/positrarx/22583cd8-da3f-11eb-ac66-2d8af994f7f5-blomig-p.jpg",
+      "detail": "Blomig-P Tablet is a prescription medicine used in the treatment of migraine. It prevents pain signals and fever associated with migraine. It also blocks certain substances in the brain that trigger nausea or vomiting during migraine headaches.",
+      "ingredient": "Paracetamol (500 mg),Domperidone (10 mg),Flunarizine (5 mg)",
+      "sideEffect": "Weight gain,Drowsiness,Dryness in mouth",
+      "uses": "Migraine -- Blomig-P Tablet is a combination of medicines that treat and prevent migraine headaches. It changes the electrical activity in the brain, blocks chemicals responsible for pain sensation and also blocks signals that cause nausea/vomiting associated with migraines. By preventing and reducing the frequency of migraine headaches, it can help you carry out your daily activities and have a better quality of life.",
+      "category": "tablet"
+    },
+    {
+      "id": 9,
+      "title": "CETADOM TABLET",
+      "price": 60,
+      "img": "https://positrarx.com/api/positrarx/aade6d6e-fc4c-11eb-ac66-2d8af994f7f5-image_-_2021-08-13t210909.854.jpg",
+      "detail": "Cetadom Tablet is a prescription medicine used in the treatment of migraine. It prevents pain signals to reach the brain to reduce pain. It also blocks certain substances in the brain that trigger nausea or vomiting during migraine headaches.",
+      "ingredient": "Paracetamol (500 mg),Domperidone (10 mg)",
+      "sideEffect": "Dryness in mouth",
+      "uses": "Migraine - Cetadom Tablet is a combination of medicines that helps prevent migraine by changing the way that your nerves receive pain signals. It also blocks the action of chemicals in the body that can make you feel or be sick. This treats as well as prevents nausea or vomiting effectively.",
+      "category": "tablet"
+    },
+    {
+      "id": 10,
+      "title": "IBUGESIC PLUS",
+      "price": 55,
+      "img": "https://positrarx.com/api/positrarx/9efa322e-e9e8-11eb-ac66-2d8af994f7f5-ibug0011_l.jpg",
+      "detail": "Ibugesic Plus is a combination of two medicines, ibuprofen and paracetamol. Both of these belong to a class of medicines known as non-steroidal anti-inflammatory drugs (NSAIDS). Ibugesic Plus Oral Suspension Strawberry helps lower body temperature (fever) and reduce pain and inflammation (redness and swelling) both in infants and children.",
+      "ingredient": "Paracetamol (500 mg),Ibuprofen (100mg)",
+      "sideEffect": "Nausea,Vomiting,Abdominal pain,Heartburn,Diarrhea",
+      "uses": "Pain reliefTreatment of Fever",
+      "category": "liquid"
+    },
+    {
+      "id": 11,
+      "title": "FENCETA PLUS SUSPENSION 60 ML",
+      "price": 40,
+      "img": "https://positrarx.com/api/positrarx/c927a4c2-f47a-11eb-ac66-2d8af994f7f5-image_-_2021-08-03t221922.792.jpg",
+      "detail": "Fenceta Plus Suspension is a combination of two medicines, ibuprofen and paracetamol. Both of these belong to a class of medicines known as non-steroidal anti-inflammatory drugs (NSAIDS). Fenceta Plus Suspension helps lower body temperature (fever) and reduce pain and inflammation (redness and swelling) both in infants and children.",
+      "ingredient": "Paracetamol (500 mg),Ibuprofen (100mg)",
+      "sideEffect": "Nausea,Vomiting,Abdominal pain,Heartburn,Diarrhea",
+      "uses": "Pain reliefTreatment of FeverPeri-articular disordersSoft tissue disorders (sprains and strains)",
+      "category": "liquid"
+    },
+    {
+      "id": 12,
+      "title": "COMBIFLAM TABLET",
+      "price": 50,
+      "img": "https://positrarx.com/api/positrarx/8fb223cc-f820-11ea-ac66-2d8af994f7f5-combiflam_tablet.jpg",
+      "detail": "Combiflam Tablet contains two painkiller medicines. They work together to reduce pain, fever, and inflammation. It is used to treat many conditions such as headache, muscle pain, pain during periods, toothache and joint pain.",
+      "ingredient": "Paracetamol (500 mg),Ibuprofen (100mg)",
+      "sideEffect": "Nausea,Heartburn,Stomach pain,Indigestion",
+      "uses": "Fever and Pain: This medicine is used to provide temporary relief from fever and pain without treating the underlying cause.",
+      "category": "tablet"
+    },
+    {
+      "id": 13,
+      "title": "LUPIRTIN-P TABLET",
+      "price": 160,
+      "img": "https://positrarx.com/api/positrarx/89e69420-c60e-11eb-ac66-2d8af994f7f5-1.jpg",
+      "detail": "Lupirtin-P Tablet is a combination medicine which may be used in the treatment and management of acute and chronic pain associated with various conditions such as menstrual cramps, headache, arthritis, muscle pains, cancer, trauma, surgeries, etc. This medicine is not recommended for use in patients less than 18 years of age.",
+      "ingredient": "Paracetamol (500 mg),Flupirtine (100 mg)",
+      "sideEffect": "Itching,Dryness in mouth,Stomach fullness,Nausea,Drowsiness,Tremor",
+      "uses": "Acute and Chronic Pain: This medicine may be used in the treatment of moderate-to-severe pain associated with various conditions such as menstrual cramps, tension headache, migraine headache, arthritis, muscle pains, cancer, trauma, surgeries.",
+      "category": "tablet"
+    },
+    {
+      "id": 14,
+      "title": "HIFENAC- P TABLET",
+      "price": 90,
+      "img": "https://positrarx.com/api/positrarx/5361499c-205c-11ec-ac66-2d8af994f7f5-hifenac-p-1566639319-10003234-1.jpg",
+      "detail": "Hifenac-P Tablet is a medicine consists of Aceclofenac and Paracetamol. Hifenac-P Tablet is used to treat pain, stiffness, and swelling at joints due to ankylosing spondylitis, osteoarthritis and rheumatoid arthritis. It is also used to get relief from headaches, toothaches, backaches, menstrual pain, sprains, and strains. This medicine blocks the release of a chemical that causes pain and swelling.",
+      "ingredient": "Paracetamol (500 mg),Aceclofenac (100mg)",
+      "sideEffect": "Vomiting,Nausea,Heartburn,Diarrhea,Loss of appetite,Stomach pain",
+      "uses": "In Pain relief: Hifenac-P Tablet is used for short-term relief of pain, inflammation, and swelling in conditions that affect joints and muscles. Some of the conditions in which Hifenac-P Tablet is used are rheumatoid arthritis, osteoarthritis, muscle pain, back pain, toothache, or pain in the ear and throat. Take it as it is prescribed to get the most benefit. Do not take more or longer than needed as that can be dangerous. In general, you should take the lowest dose that works, for the shortest possible time. This will help you to go about your daily activities more easily and have a better, more active, quality of life.",
+      "category": "tablet"
+    },
+    {
+      "id": 15,
+      "title": "DR ORTHO OIL",
+      "price": 280,
+      "img": "https://positrarx.com/api/positrarx/7f5efe38-c2e5-11eb-ac66-2d8af994f7f5-dr-ortho-joint-pain-relief-oil-500x500.jpg",
+      "detail": "Dr. Ortho oil is an ayurvedic herbal pain relieving oil which is prepared from the extracts of eight different herbs. Each herb has distinctive properties to combat pain in several regions of the body including muscles, legs, neck, shoulders, joints and back. It is useful in providing relief from joint pain, it also acts a muscle pain relief oil, and an ayurvedic oil for shoulder pain",
+      "ingredient": "Til Oil,Peppermint Oil,Camphor oil,Flaxseed Oil",
+      "sideEffect": "no common side effect found",
+      "uses": "It helps in treating joint pain",
+      "category": "liquid"
+    },
+    {
+      "id": 16,
+      "title": "BIO OIL SKINCARE",
+      "price": 490,
+      "img": "https://positrarx.com/api/positrarx/ccacf4aa-799a-11ea-9988-02128ec5b234-bio-oil.jpg",
+      "detail": "Bio-Oil contains the breakthrough ingredient PurCellin Oil, which changes the formulation's overall consistency, making it light and non-greasy.Bio-Oil Skincare Oil contains numerous ingredients that help to plasticize the skin, making it softer, smoother and more supple, thereby reducing the appearance of spots of acene",
+      "ingredient": "Calendula Oil,PurCellin Oil,Lavender Oil,Rosemary Oil,Chamomile Oil,Vitamins",
+      "sideEffect": "Although Bio-Oil is generally considered safe, it isn’t recommended for use on broken or bleeding skin. If you think you might be sensitive to linalool or any of the listed ingredients in Bio-Oil, before starting regular use, put a small amount on your forearm and wait 30 to 60 minutes. If you experience a reaction, discontinue use.",
+      "uses": "Improve the appearance of new and old scarsImprove the appearance of stretch marksImprove the appearance of hyperpigmentation (uneven skin tone) for both dark and light skin typesSmooth and tone aging skin on the face and bodyRetain skin moisture",
+      "category": "liquid"
+    },
+    {
+      "id": 17,
+      "title": "HIMALAYA GENTLE BABY SOAP",
+      "price": 90,
+      "img": "https://positrarx.com/api/positrarx/1f7446be-d66c-11eb-ac66-2d8af994f7f5-gentle_baby_soap_100g-carton-india-8651-f39_1024x1024.jpg",
+      "detail": "Himalaya Gentle Baby Soap contains Almond Oil and Olive Oil as major ingredients. The soap is ideal for daily use and keeps the skin soft and hydrating. The formulation contains no artificial colours.",
+      "ingredient": "Almond Oil,Olive Oil",
+      "sideEffect": "There are no side effects",
+      "uses": "Cleanse for baby’s tender skin",
+      "category": "skin"
+    },
+    {
+      "id": 18,
+      "title": "SUTHOL ANTISEPTIC SKIN LIQUID",
+      "price": 50,
+      "img": "https://positrarx.com/api/positrarx/0d88bd04-79b1-11ea-9988-02128ec5b234-suthol_antiseptic_skin_liquid.jpg",
+      "detail": "Suthol Antiseptic Skin Liquid is a smarter way to fight against prickly heat, itches and skin rashes. It being liquid, it penetrates deep within the skin, carrying its healing and protective ingredients to provide one with the best protection and relief against skin problems.",
+      "ingredient": "Neem,,Turmeric,Marigold,Aloe Vera,Cetrimide,Chlorhexidine, Gluconate",
+      "sideEffect": "There are no side effects",
+      "uses": "It is useful in preventing rashes.Helps fight skin infections.Used to reduce redness of the skin.",
+      "category": "liquid"
+    },
+    {
+      "id": 19,
+      "title": "VENUSIA DERM MOISTURIZING CREAM",
+      "price": 260,
+      "img": "https://positrarx.com/api/positrarx/d16b4c72-00c5-11ec-ac66-2d8af994f7f5-venusia-derm-face-body-moisturising-lotion-by-dr.reddys-75gm-pack-of-3.jpg",
+      "detail": "Venusia Derm is a moisturising lotion that contains Shea butter and Cocoa butter, effective for repairing the moisture barrier of the skin. This is effective in quickly healing dry skin. Venusia cream has been clinically proven to be hypoallergenic and non-comedogenic that keeps your skin free of irritation. Venusia moisturising cream offers long-lasting moisturisation for up to 36 hours to ensure your skin feels hydrated throughout the day.",
+      "ingredient": "Glycerin,Dimethicone,,Shea butter,Cocoa butter, Aloe vera",
+      "sideEffect": "There are no side effects",
+      "uses": "Venusia Derm can be used as a long-lasting moisturiser offering moisturisation for up to 36 hours to people suffering from very dry skin conditions.Venusia cream is dermatologically tested to increase skin hydration up to 92%. It is clinically tested to be hypoallergenic, free of irritants and non-comedogenic.The product has a PAMA-free formulation (Paraben-free, Alcohol-free, Mineral Oil-free, Animal Origin Free) to ensure it doesn’t contain allergens and other irritants commonly found in moisturisers.",
+      "category": "skin"
+    },
+    {
+      "id": 20,
+      "title": "NEVLON SOAP",
+      "price": 100,
+      "img": "https://positrarx.com/api/positrarx/e51d6864-cd20-11eb-ac66-2d8af994f7f5-nevlon_soap.jpg",
+      "detail": "Nevlon soap is a mild formula that provides skin with moisturizing care and nourishment. It contains Shea butter, Olive extracts, palm oil and Avocado oil. The soap is formulated specifically for obtaining a deeply nourished, soft skin that is free of flakiness and chapping.",
+      "ingredient": "Avocado,Shea Butter,Olive Oil,Palm Oil",
+      "sideEffect": "There are no side effects",
+      "uses": "Skin Moisturising Care Bath Soap",
+      "category": "skin"
+    },
+    {
+      "id": 21,
+      "title": "TIGATEL 40 TABLET",
+      "price": 140,
+      "img": "https://positrarx.com/api/positrarx/e6d45e66-27a1-11ec-ac66-2d8af994f7f5-tigatel_40_mg_tablet.jpg",
+      "detail": "Tigatel 40 Tablet is a medicine used to treat high blood pressure and heart failure. Lowering blood pressure helps to prevent future heart attacks and strokes. This medicine is also effective in preserving kidney function in patients with diabetes.Before taking this medicine, let your doctor know if you have any kidney or liver problems. Pregnant or breastfeeding mothers should also consult their doctor before taking it. Your doctor may check your kidney function, blood pressure, and potassium levels in your blood at regular intervals while you are taking this medicine.",
+      "ingredient": "Telmisartan (40mg)",
+      "sideEffect": "Diarrhea,Back pain,Upper respiratory tract infection,Sinus infection",
+      "uses": "Treat high blood pressure. It is also used to decrease the chance of heart attack, stroke, in people who are at high risks for cardiovascular disease.",
+      "category": "tablet"
+    },
+    {
+      "id": 22,
+      "title": "TELLZY 40 MG TABLET",
+      "price": 150,
+      "img": "https://positrarx.com/api/positrarx/0516dc5c-c2ce-11eb-ac66-2d8af994f7f5-tellzy_40_mg_tablet1.jpg",
+      "detail": "Tellzy 40 MG Tablet is used to treat high blood pressure, prevent stroke and other heart diseases. A proper diet and regular exercise should be maintained along with taking this medicine. This medicine is effective in elderly population who are at higher risk of developing heart diseases.",
+      "ingredient": "Telmisartan (40mg)",
+      "sideEffect": "Diarrhea,Back pain,Upper respiratory tract infection,Sinus infection",
+      "uses": "Hypertension: Tellzy 40 MG Tablet is used in the treatment of hypertension which is an increase in the blood pressure caused by genetic and/or environmental factorsCardiovascular risk reduction: Tellzy 40 MG Tablet is used to reduce the risk of heart complications like coronary artery disease and stroke in the elderly population",
+      "category": "tablet"
+    },
+    {
+      "id": 23,
+      "title": "VITANOVA-D3 DROP 15 ML",
+      "price": 102,
+      "img": "https://positrarx.com/api/positrarx/51cb8f98-bf86-11eb-ac66-2d8af994f7f5-vitanova_d3_drops_15ml_0.jpg",
+      "detail": "Vitanova-D3 drops contain cholecalciferol. Cholecalciferol is an analogue of Vitamin D3 which treats Vitamin D3 deficiency in children caused by inadequate exposure to sunlight and deficiency of Vitamin D3 in breastfeeding mothers.Vitanova-D3 Drop belongs to the class of 'Vitamins', primarily used to treat low blood calcium levels. Vitanova-D3 Drop effectively treats various conditions in the body like Vitamin D deficiency, osteoporosis (weak and brittle bones), hypoparathyroidism (parathyroid glands make low levels of calcium in the body), latent tetany (a muscle disease with low blood calcium levels), and rickets or osteomalacia (softening or deforming of bones due to lack of calcium). Vitamin D deficiency occurs when your body has low Vitamin D levels and is caused due to inadequate nutrition, intestinal malabsorption, or lack of sunlight exposure.",
+      "ingredient": "Cholecalciferol",
+      "sideEffect": "no common side effect found",
+      "uses": "Absorption of calcium in muscles and improving muscle contraction & relaxation, flexibility & elasticity. Thus, increasing overall strength & functioning of muscles.Deficiency of Vitamin D3Promoting overall growth and development of kids. Enhancing the proper functioning of immune system, thus acting as immunity booster.Effective calcium and phosphorus metabolism",
+      "category": "liquid"
+    },
+    {
+      "id": 24,
+      "title": "SUNBLESS 60K CAPSULE",
+      "price": 105,
+      "img": "https://positrarx.com/api/positrarx/21fb26a8-7508-11ea-9988-02128ec5b234-200c4728-7508-11ea-916b-5ce0c58d2f7e.jpeg",
+      "detail": "Sunbless 60000 iu Capsule is an essential component in our body, which helps in the absorption of calcium and phosphates from the bowel. It helps to keep the bones and teeth healthy especially in the elderly and in those with deficiency of this vitamin is evident due to familial or environmental reasons. The common source of this vitamin is sunlight and this medicine acts as a vitamin D3 supplement for those who may not receive all the vitamin D3 they needed especially the housebound or living in nursing or residential homes.",
+      "ingredient": "Cholecalciferol 60,000 iu",
+      "sideEffect": "Increased blood calcium levels,Increased calcium levels in urine,Mental Confusion,Constipation,Metallic taste",
+      "uses": "Nutritional SupplementationOsteoporosisHypoparathyroidismVitamin D Resistant RicketsFamilial Hypophosphatemia",
+      "category": "capsule"
+    },
+    {
+      "id": 25,
+      "title": "CALDIKIND 60K SACHET",
+      "price": 35,
+      "img": "https://positrarx.com/api/positrarx/518f6006-22b7-11ec-ac66-2d8af994f7f5-cald0007_l.jpg",
+      "detail": "Caldikind-60K Sachet belongs to the class of 'Vitamins', primarily used to treat low blood calcium levels. Caldikind-60K Sachet effectively treats various conditions in the body like Vitamin D deficiency, osteoporosis (weak and brittle bones), hypoparathyroidism (parathyroid glands make low levels of calcium in the body), latent tetany (a muscle disease with low blood calcium levels) and rickets or osteomalacia (softening or deforming of bones due to lack of calcium). Vitamin D deficiency occurs when your body has low Vitamin D levels and is caused due to inadequate nutrition, intestinal malabsorption or lack of sunlight exposure.",
+      "ingredient": "Cholecalciferol 60,000 iu",
+      "sideEffect": "Vomiting,Constipation,Nausea,Metalic taste,weight loss,Chest Pain",
+      "uses": "Caldikind-60K Sachet is used to treat low blood calcium levels. It effectively treats various conditions in the body like Vitamin D deficiency, osteoporosis, hypoparathyroidism, latent tetany and rickets or osteomalacia. Caldikind-60K Sachet contains Cholecalciferol (Vitamin D3). Cholecalciferol is a steroid hormone produced in the skin when exposed to ultraviolet light or obtained from food sources. It is a provitamin that is converted into vitamin after intake.",
+      "category": "tablet"
+    },
+    {
+      "id": 26,
+      "title": "MELALITE FORTE CREAM",
+      "price": 160,
+      "img": "https://positrarx.com/api/positrarx/f4bbb2c6-c9e2-11eb-ac66-2d8af994f7f5-image_2021_06_10t11_54_20_541z.png",
+      "detail": "Melalite Forte Cream is used in the treatment of melasma. It is a skin-lightening medicine that lightens the darkened skin patches and spots(hyperpigmentation). It reduces the amount of skin-darkening pigment called melanin in the skin. It helps in reversible depigmentation of the skin.",
+      "ingredient": "Hydroquinone (4% w/w)",
+      "sideEffect": "Skin burn,Skin peeling,Erythema (Skin redness),Itching,Dry skin",
+      "uses": "This medicine use for treating Melasma. Melasma is a common skin problem that causes dark, discolored patches on your skin. It is more commonly seen in females than males.It helps to lighten these dark patches of the skin usually caused by pregnancy, birth control pills, hormone medicine, or injury to the skin.",
+      "category": "skin"
+    },
+    {
+      "id": 27,
+      "title": "PANDERM PLUS PLUS CREAM 15 GM",
+      "price": 103,
+      "img": "https://positrarx.com/api/positrarx/0647e4f4-61ab-11ed-90f9-6602c0541c9d-panderm__cream_15_gm.jpg",
+      "detail": "Panderm + + Cream is a combination medicine used in the treatment of various types of skin infections. It minimizes symptoms of inflammation such as redness, swelling, and itching by acting against the infection-causing microorganisms. Before taking this medicine, it is important to tell your doctor if you are taking or have recently taken any other medicines for the same disease or other diseases. Pregnant and breastfeeding women should take this medicine with proper consultation and caution. If you are a known allergic to the medicine, you must refrain from using this medicine. You should consult the doctor about prescribing an alternative medicine for your condition.",
+      "ingredient": "Miconazole (2% w/w),Neomycin (0.5% w/w),Clobetasol (0.05% w/w),Neomycin (0.5% w/w)",
+      "sideEffect": "Skin Infection",
+      "uses": "This medicine is for external use only. Use it in the dose and duration as advised by your doctor. Check the label for directions before use. Clean and dry the affected area and apply the cream. Wash your hands after applying, unless hands are the affected area.",
+      "category": "skin"
+    },
+    {
+      "id": 28,
+      "title": "BAIDYANATH RHUMA OIL 100 ML",
+      "price": 230,
+      "img": "https://positrarx.com/api/positrarx/19ba1ed4-c16c-11eb-ac66-2d8af994f7f5-rhuma-baidyanath-1440653685-10005553.jpg",
+      "detail": "Baidyanath Rhuma Oil is used in the treatment of joint pain, stress-related pain, muscle pain and pain generated through fatigue. It helps in treating pain due to arthritis, rheumatoid arthritis, sciatica, lumbago, spondylitis and all other types of muscle pains. It is also beneficial in healing sports-related injuries.",
+      "ingredient": "Tarpeen tel,Amahaldi,Erandmool,Ashwagandha",
+      "sideEffect": "There is no side-effect.",
+      "uses": "Effective in treating soft tissue injuries and muscle trauma.Helps in treating rheumatism, gout, arthritis, spondylitis and sciatica.Helps in recovering sports injuries.",
+      "category": "liquid"
+    }
+  ]
+}
